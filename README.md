@@ -48,7 +48,7 @@ A simple package for laravel 5 to manage router path with menu dynamically.
 
 5.  You can change the mene style, tags and attributes. Here are the templates for customization :
     ```
-    /resources/views/vendor/satouchlaravelmenu/menu-parent.blade.php
+    /resources/views/vendor/satouch/laravelmenu/menu-parent.blade.php
     
-    /resources/views/vendor/satouchlaravelmenu/menu-child.blade.php
+    /resources/views/vendor/satouch/laravelmenu/menu-child.blade.php
     ```
