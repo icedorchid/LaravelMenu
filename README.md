@@ -8,8 +8,9 @@ A simple package for laravel 5 to manage router path with menu dynamically.
         ```
 
     =>  On composer run couple of command :
-        $ php artisan vendor:publish
-        $ php artisan migrate
+        php artisan vendor:publish
+        
+        php artisan migrate
 
 2.  Added repositories
     ```json 
