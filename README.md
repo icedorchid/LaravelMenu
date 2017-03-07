@@ -8,12 +8,6 @@ A simple package for laravel 5 to manage router path with menu dynamically.
         "Satouch/LaravelMenu": "dev-master"
         ```
 
-    =>  On composer run couple of command :
-    
-        php artisan vendor:publish
-        
-        php artisan migrate
-
 2.  Added repositories
 
     ```json 
@@ -24,6 +18,13 @@ A simple package for laravel 5 to manage router path with menu dynamically.
         }
     ],  
     ```
+    
+    =>  On composer run couple of command :
+    
+        php artisan vendor:publish
+        
+        php artisan migrate
+        
 
 3.  Go to config >> app.php and add those line :
 
