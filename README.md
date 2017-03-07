@@ -19,13 +19,6 @@ A simple package for laravel 5 to manage router path with menu dynamically.
     ],  
     ```
     
-    =>  On composer run couple of command :
-    
-        php artisan vendor:publish
-        
-        php artisan migrate
-        
-
 3.  Go to config >> app.php and add those line :
 
     => On 'providers' section :
@@ -39,6 +32,13 @@ A simple package for laravel 5 to manage router path with menu dynamically.
     ```php
     'SatouchMenu' => Satouch\LaravelMenu\SatouchMenu::class,
     ```
+
+    =>  On composer run couple of command :
+    
+        php artisan vendor:publish
+        
+        php artisan migrate
+        
 
 4.  Generate or call menu view (Blade):
 
