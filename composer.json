@@ -1,6 +1,7 @@
 {
     "name": "Satouch/LaravelMenu",
     "type": "library",
+    "version": "0.1.0",
     "description": ":Laravel 5 menu generator",
     "keywords": [
         "Satouch",
@@ -16,6 +17,7 @@
             "role": "Developer"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "illuminate/support": "~5.1",
         "php" : "~5.6|~7.0"
