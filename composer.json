@@ -2,10 +2,6 @@
     "name": "sagormax/laravelmenu",
     "type": "library",
     "description": ":Laravel 5 menu generator",
-    "keywords": [
-        "Satouch",
-        "LaravelMenu"
-    ],
     "homepage": "https://github.com/sagormax/LaravelMenu",
     "authors": [
         {
@@ -16,7 +12,7 @@
         }
     ],
     "version": "0.1.1",
-    "prefer-stable": true,
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Satouch\\LaravelMenu\\": "src"
